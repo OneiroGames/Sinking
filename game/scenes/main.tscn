@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://c5mh5orkvih83"]
+
+[ext_resource type="Script" path="res://game/scripts/main.gd" id="1_3o0jp"]
+[ext_resource type="PackedScene" uid="uid://u0gqldnxnboj" path="res://game/scenes/main_menu.tscn" id="2_sdodb"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_3o0jp")
+
+[node name="VisualNovel_Main" parent="." instance=ExtResource("2_sdodb")]
+anchors_preset = 0
+anchor_right = 0.0
+anchor_bottom = 0.0
+offset_right = 1600.0
+offset_bottom = 900.0
+grow_horizontal = 1
+grow_vertical = 1

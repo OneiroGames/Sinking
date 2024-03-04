@@ -1,0 +1,47 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+"_translation_id": "",
+"color": Color(1, 1, 1, 1),
+"custom_info": {
+"sound_mood_default": "",
+"sound_moods": {},
+"style": "default_style"
+},
+"default_portrait": "angry",
+"description": "",
+"display_name": "Лорензо",
+"mirror": false,
+"nicknames": [""],
+"offset": Vector2(0, 0),
+"portraits": {
+"angry": {
+"export_overrides": {
+"image": "\"res://game/assets/sprites/lorenzo/novel_lorenzo_angry_colored.webp\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.9,
+"scene": ""
+},
+"playful": {
+"export_overrides": {
+"image": "\"res://game/assets/sprites/lorenzo/novel_lorenzo_playful_colored.webp\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.9,
+"scene": ""
+},
+"thinking": {
+"export_overrides": {
+"image": "\"res://game/assets/sprites/lorenzo/novel_lorenzo_thinking_colored.webp\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.9,
+"scene": ""
+}
+},
+"scale": 1.0
+}

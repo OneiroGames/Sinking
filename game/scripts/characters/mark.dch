@@ -1,0 +1,56 @@
+{
+"@path": "res://addons/dialogic/Resources/character.gd",
+"@subpath": NodePath(""),
+"_translation_id": "",
+"color": Color(1, 1, 1, 1),
+"custom_info": {
+"sound_mood_default": "",
+"sound_moods": {},
+"style": "default_style"
+},
+"default_portrait": "calm",
+"description": "",
+"display_name": "Марк",
+"mirror": false,
+"nicknames": [""],
+"offset": Vector2(0, 0),
+"portraits": {
+"calm": {
+"export_overrides": {
+"image": "\"res://game/assets/sprites/mark/novel_mark_calm_colored.webp\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.9,
+"scene": ""
+},
+"creepy_smile": {
+"export_overrides": {
+"image": "\"res://game/assets/sprites/mark/novel_mark_creepy_smile_colored.webp\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.9,
+"scene": ""
+},
+"normal": {
+"export_overrides": {
+"image": "\"res://game/assets/sprites/mark/novel_mark_normal_colored.webp\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.9,
+"scene": ""
+},
+"scared": {
+"export_overrides": {
+"image": "\"res://game/assets/sprites/mark/novel_mark_scared_colored.webp\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.9,
+"scene": ""
+}
+},
+"scale": 1.0
+}
